@@ -1,0 +1,14 @@
+c:\Users\tiago\Documents\VisualStudioCode_Projects\C#\2048_Game\2048_Game\obj\Debug\net8.0\2048_Game.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\tiago\Documents\VisualStudioCode_Projects\C#\2048_Game\2048_Game\obj\Debug\net8.0\2048_Game.AssemblyInfoInputs.cache
+c:\Users\tiago\Documents\VisualStudioCode_Projects\C#\2048_Game\2048_Game\obj\Debug\net8.0\2048_Game.AssemblyInfo.cs
+c:\Users\tiago\Documents\VisualStudioCode_Projects\C#\2048_Game\2048_Game\obj\Debug\net8.0\2048_Game.csproj.CoreCompileInputs.cache
+c:\Users\tiago\Documents\VisualStudioCode_Projects\C#\2048_Game\2048_Game\bin\Debug\net8.0\2048_Game.exe
+C:\Users\tiago\Documents\VisualStudioCode_Projects\C#\2048_Game\2048_Game\bin\Debug\net8.0\2048_Game.deps.json
+C:\Users\tiago\Documents\VisualStudioCode_Projects\C#\2048_Game\2048_Game\bin\Debug\net8.0\2048_Game.runtimeconfig.json
+c:\Users\tiago\Documents\VisualStudioCode_Projects\C#\2048_Game\2048_Game\bin\Debug\net8.0\2048_Game.dll
+c:\Users\tiago\Documents\VisualStudioCode_Projects\C#\2048_Game\2048_Game\bin\Debug\net8.0\2048_Game.pdb
+c:\Users\tiago\Documents\VisualStudioCode_Projects\C#\2048_Game\2048_Game\obj\Debug\net8.0\2048_Game.dll
+c:\Users\tiago\Documents\VisualStudioCode_Projects\C#\2048_Game\2048_Game\obj\Debug\net8.0\refint\2048_Game.dll
+c:\Users\tiago\Documents\VisualStudioCode_Projects\C#\2048_Game\2048_Game\obj\Debug\net8.0\2048_Game.pdb
+C:\Users\tiago\Documents\VisualStudioCode_Projects\C#\2048_Game\2048_Game\obj\Debug\net8.0\2048_Game.genruntimeconfig.cache
+C:\Users\tiago\Documents\VisualStudioCode_Projects\C#\2048_Game\2048_Game\obj\Debug\net8.0\ref\2048_Game.dll
